@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"Currently engineering multi-tier transit systems and cinematic web interfaces at SNGCE. My work integrates the precision of Computer Science with the aesthetics of VFX. From developing geolocation-throttling algorithms in Dart to modeling complex 3D environments in Blender, I build scalable systems that don't just work—they command attention.</p>
+<p align="left">Currently engineering multi-tier transit systems and cinematic web interfaces at SNGCE. My work integrates the precision of Computer Science with the aesthetics of VFX. From developing geolocation-throttling algorithms in Dart to modeling complex 3D environments in Blender, I build scalable systems that don't just work—they command attention.</p>
 
 ###
 
