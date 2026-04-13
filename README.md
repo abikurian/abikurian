@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science Engineering student from Ernakulam, Kerala, studying at SNGCE. Have a growing knowledge of coding and software development. Passionate about digital creativity, with experience in After Effects, Photoshop, and Blender. Skilled in video editing and smaller 3D projects, combining technical and creative skills to build unique digital content. Always exploring new tools and technologies to learn and experiment.</p>
+<p align="left"Currently engineering multi-tier transit systems and cinematic web interfaces at SNGCE. My work integrates the precision of Computer Science with the aesthetics of VFX. From developing geolocation-throttling algorithms in Dart to modeling complex 3D environments in Blender, I build scalable systems that don't just work—they command attention.</p>
 
 ###
 
