@@ -60,10 +60,13 @@ Currently engineering multi-tier transit systems and cinematic web interfaces at
 ### METRICS & TELEMETRY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abikurian&theme=dracula&show_icons=true&count_private=true" alt="abikurian's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abikurian&theme=dracula&layout=compact&langs_count=5" alt="Top Languages" />
-</div>
+  
+![abikurian's GitHub stats](https://github-readme-stats.vercel.app/api?username=abikurian&theme=dracula&show_icons=true&count_private=true&v=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abikurian&theme=dracula&layout=compact&langs_count=5&v=1)
+
 <br>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abikurian.abikurian" alt="Visitors Badge" />
+
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=abikurian.abikurian)
+
 </div>
