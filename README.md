@@ -2,8 +2,8 @@
 ### FINAL YEAR B.TECH CSE @ SNGCE | FULL-STACK SOFTWARE ENGINEER
 ---
 
-> **STATUS:** Architecting high-performance web and mobile systems. 
-> **PORTFOLIO:** [portfolioo-six-roan.vercel.app](https://portfolioo-six-roan.vercel.app/)
+> **STATUS:** Architecting high-performance web and mobile systems.<br>
+> **PORTFOLIO:** [portfolioo-six-roan.vercel.app](https://portfolioo-six-roan.vercel.app/)<br>
 > **LOCATION:** Kochi, Kerala, IN // IST
 
 ### EXECUTIVE SUMMARY
@@ -20,8 +20,8 @@ Currently engineering multi-tier transit systems and cinematic web interfaces at
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql" /> <img width="10" />
+  <img style="background-color: white; border-radius: 4px; padding: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask" /> <img width="10" />
+  <img style="background-color: white; border-radius: 4px; padding: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql" /> <img width="10" />
 </div>
 
 **Architecture & Creative Infrastructure**
@@ -29,7 +29,7 @@ Currently engineering multi-tier transit systems and cinematic web interfaces at
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="aftereffects" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="35" alt="premierepro" /> <img width="10" />
+  <img style="background-color: white; border-radius: 4px; padding: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="35" alt="premierepro" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" /> <img width="10" />
 </div>
 
