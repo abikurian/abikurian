@@ -61,9 +61,9 @@ Currently engineering multi-tier transit systems and cinematic web interfaces at
 
 <div align="center">
   
-![abikurian's GitHub stats](https://github-readme-stats.vercel.app/api?username=abikurian&theme=dracula&show_icons=true&count_private=true&v=1)
+![abikurian's GitHub stats](https://github-readme-stats.vercel.app/api?username=abikurian&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abikurian&theme=dracula&layout=compact&langs_count=5&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abikurian&theme=dracula&layout=compact)
 
 <br>
 
