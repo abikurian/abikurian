@@ -56,14 +56,11 @@ Currently engineering multi-tier transit systems and cinematic web interfaces at
 * **Cisco Certified Ethical Hacker:** Applied knowledge in vulnerability assessment, penetration testing, and secure system design to ensure robust full-stack deployments.
 
 ---
-
 ### METRICS & TELEMETRY
 
 <div align="center">
   
-![abikurian's GitHub stats](https://github-readme-stats.vercel.app/api?username=abikurian&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abikurian&theme=dracula&layout=compact)
+![abikurian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abikurian&theme=dracula&hide_border=true)
 
 <br>
 
