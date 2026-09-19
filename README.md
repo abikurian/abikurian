@@ -3,7 +3,7 @@
 ---
 
 > **STATUS:** Architecting high-performance web and mobile systems.<br>
-> **PORTFOLIO:** [abikurian.vercel.app](https://abikurian.vercel.app/) <br>
+> **PORTFOLIO:** [abikurian.vercel.app](https://portfolioo-six-roan.vercel.app/) <br>
 > **LOCATION:** Kochi, Kerala, IN // IST
 
 ### EXECUTIVE SUMMARY
