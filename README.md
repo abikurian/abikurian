@@ -40,18 +40,24 @@ Currently engineering multi-tier transit systems and cinematic web interfaces at
 
 ### CORE ARCHITECTURES & PROJECTS
 
-* **Interactive 3D WebGL Portfolio**
-    * **Stack:** Astro, React, Tailwind CSS, TypeScript, Spline
-    * **Architecture:** Engineered a high-fidelity cinematic web interface featuring scroll-triggered 3D UI components, full-bleed backgrounds, and optimized IntersectionObserver layout transitions.
+* **Local Workforce Recruitment Portal (In Development)**
+    * **Stack:** System Architecture & Research Phase
+    * **Architecture:** A centralized web and mobile platform designed to digitize temporary staffing for the event and hospitality industry. Architecting secure user authentication, strict role-based access control (RBAC), and location-based job discovery algorithms prioritizing worker reliability.
+* **SpendStudent / Progressive Web App**
+    * **Stack:** React, Supabase (PostgreSQL), Dexie.js, Tailwind CSS
+    * **Architecture:** A robust offline-first personal finance tracker featuring OCR for receipt processing. Engineered a two-way sync engine to resolve complex React race conditions, ensuring seamless offline-to-cloud data parity protected by strict Row Level Security (RLS).
 * **Smart Yatra Ecosystem**
     * **Stack:** Flutter, Dart, Firebase
-    * **Architecture:** A full-stack fleet transit application. Engineered a cross-platform mobile OS featuring a dynamic speed-based GPS throttling logic and real-time document extraction via OCR. Handled complex backend synchronization using Firebase.
-* **Automated Data Management Engine**
-    * **Stack:** Python, Pandas, Google Sheets API, Tkinter
-    * **Architecture:** Developed a secure student marks entry system. Built an automation pipeline utilizing `gspread` and service account authentication to parse local data directly into cloud-backed Google Sheets infrastructure.
-* **"Whispers of Silence" 3D Narrative**
+    * **Architecture:** A real-time, high-tech fleet management application built to track campus buses. Engineered a custom geolocation algorithm to dynamically optimize cloud sync frequency and battery usage based on transit speed.
+* **AI-Powered Smart Voting System**
+    * **Stack:** Python, Next.js, MongoDB
+    * **Architecture:** An intelligent web-based voting platform integrating machine learning models for secure user verification, ensuring a tamper-proof and highly secure tabulation environment.
+* **Interactive 3D Web Portfolios**
+    * **Stack:** Astro, React, Tailwind CSS, Spline, Vercel
+    * **Architecture:** Engineered highly optimized, responsive developer and videography portfolios featuring a "Swiss Brutalist" UI, scroll-triggered 3D canvas animations, and optimized IntersectionObserver layout transitions.
+* **Creative & 3D Narrative Productions**
     * **Stack:** Blender, DaVinci Resolve
-    * **Architecture:** Executed a complex 3D creative production utilizing advanced keyframing mechanics, lighting balance, character meshes, and 10-bit cinematic color grading pipelines.
+    * **Architecture:** Executed complex 3D and live-action creative productions (including "Whispers of Silence" and college festival promos). Utilized advanced keyframing mechanics, lighting balance, character meshes, and professional cinematic color grading pipelines for precise narrative pacing.
 
 ---
 
