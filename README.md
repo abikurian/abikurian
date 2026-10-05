@@ -2,6 +2,7 @@
 ### FINAL YEAR B.TECH CSE @ SNGCE | FULL-STACK SOFTWARE ENGINEER
 ---
 
+
 > **STATUS:** Architecting high-performance web and mobile systems.<br>
 > **PORTFOLIO:** [abikurian.vercel.app](https://portfolioo-six-roan.vercel.app/) <br>
 > **LOCATION:** Kochi, Kerala, IN // IST
