@@ -2,7 +2,6 @@
 ### FINAL YEAR B.TECH CSE @ SNGCE | FULL-STACK SOFTWARE ENGINEER
 ---
 
-
 > **STATUS:** Architecting high-performance web and mobile systems.<br>
 > **PORTFOLIO:** [abikurian.vercel.app](https://portfolioo-six-roan.vercel.app/) <br>
 > **LOCATION:** Kochi, Kerala, IN // IST
@@ -40,7 +39,6 @@ Currently engineering multi-tier transit systems and cinematic web interfaces at
 ---
 
 ### CORE ARCHITECTURES & PROJECTS
-
 * **Local Workforce Recruitment Portal (In Development)**
     * **Stack:** System Architecture & Research Phase
     * **Architecture:** A centralized web and mobile platform designed to digitize temporary staffing for the event and hospitality industry. Architecting secure user authentication, strict role-based access control (RBAC), and location-based job discovery algorithms prioritizing worker reliability.
