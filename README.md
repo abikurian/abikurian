@@ -7,7 +7,7 @@
 > **LOCATION:** Kochi, Kerala, IN // IST
 
 ### EXECUTIVE SUMMARY
-Final-year Computer Science Engineering student at SNGCE specializing in robust web, mobile, and distributed systems. Experienced in developing offline-first architectures, real-time telemetry algorithms, and high-performance WebGL interfaces. Proven track record spanning full-stack application development, AI pipeline integration, and cross-functional team execution.
+Final-year Computer Science Engineering student at SNGCE specializing in robust web, mobile, and distributed systems. Experienced in developing offline-first architectures, real-time telemetry algorithms, and high-performance WebGL interfaces. Seamlessly bridges software engineering with advanced visual media—combining full-stack systems with 3D pipelines, node-based color grading, and creative asset production.
 
 ---
 
@@ -36,8 +36,19 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" /> <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql" /> <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux" />
+</div>
+
+<br>
+
+**Design, Video & 3D Engineering**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=davinci" height="35" alt="DaVinci Resolve" /> <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="35" alt="premiere pro" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="after effects" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="35" alt="photoshop" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva" /> <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
 </div>
 
@@ -69,9 +80,9 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 
 ### CREATIVE & VISUAL ENGINEERING
 
-- **3D Digital Production & Visual Direction**
-  * **Pipeline:** Blender, DaVinci Resolve (10-bit Color Grading), Sony Alpha Pipeline
-  * **Execution:** Directed and produced cinematic promotional pieces (e.g., college festival trailers, "Whispers of Silence"). Implemented 3D hard-surface and organic character keyframe animation in Blender, with final node-based post-production mastering in DaVinci Resolve.
+- **3D Digital Production & Cinematic Post-Processing**
+  * **Pipeline:** DaVinci Resolve (10-bit Color Grading & Studio Fairlight), Blender, Premiere Pro, Photoshop, Canva, Sony Alpha Pipeline
+  * **Execution:** Directed and produced cinematic promotional pieces (e.g., college festival trailers, "Whispers of Silence"). Implemented 3D hard-surface and organic character keyframe animation in Blender, composite visual effects in After Effects, and final node-based color grading and mastering in DaVinci Resolve.
 
 ---
 
