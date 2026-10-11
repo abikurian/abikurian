@@ -2,12 +2,12 @@
 ### FINAL YEAR B.TECH CSE @ SNGCE | FULL-STACK SOFTWARE ENGINEER
 ---
 
-> **STATUS:** Architecting high-performance web and mobile systems.<br>
-> **PORTFOLIO:** [abikurian.vercel.app](https://portfolioo-six-roan.vercel.app/) <br>
+> **STATUS:** Architecting high-performance web and mobile systems.  
+> **PORTFOLIO:** [abikurian.vercel.app](https://abikurian.vercel.app/)  
 > **LOCATION:** Kochi, Kerala, IN // IST
 
 ### EXECUTIVE SUMMARY
-Currently engineering multi-tier transit systems and cinematic web interfaces at SNGCE. My work integrates the precision of Computer Science with the aesthetics of VFX. From developing geolocation-throttling algorithms in Dart to modeling complex 3D environments and integrating agentic AI, I build secure, scalable systems that don't just work—they command attention.
+Final-year Computer Science Engineering student at SNGCE specializing in robust web, mobile, and distributed systems. Experienced in developing offline-first architectures, real-time telemetry algorithms, and high-performance WebGL interfaces. Proven track record spanning full-stack application development, AI pipeline integration, and cross-functional team execution.
 
 ---
 
@@ -15,65 +15,82 @@ Currently engineering multi-tier transit systems and cinematic web interfaces at
 
 **Languages & Frameworks**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="35" alt="astro" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="35" alt="astro" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c" />
 </div>
 
-**Architecture & Creative Infrastructure**
+<br>
+
+**Databases, Cloud & Infrastructure**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="35" alt="firebase" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="aftereffects" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="35" alt="premierepro" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="35" alt="supabase" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="35" alt="firebase" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender" /> <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
 </div>
 
 ---
 
-### CORE ARCHITECTURES & PROJECTS
-* **Local Workforce Recruitment Portal (In Development)**
-    * **Stack:** System Architecture & Research Phase
-    * **Architecture:** A centralized web and mobile platform designed to digitize temporary staffing for the event and hospitality industry. Architecting secure user authentication, strict role-based access control (RBAC), and location-based job discovery algorithms prioritizing worker reliability.
-* **SpendStudent / Progressive Web App**
-    * **Stack:** React, Supabase (PostgreSQL), Dexie.js, Tailwind CSS
-    * **Architecture:** A robust offline-first personal finance tracker featuring OCR for receipt processing. Engineered a two-way sync engine to resolve complex React race conditions, ensuring seamless offline-to-cloud data parity protected by strict Row Level Security (RLS).
-* **Smart Yatra Ecosystem**
-    * **Stack:** Flutter, Dart, Firebase
-    * **Architecture:** A real-time, high-tech fleet management application built to track campus buses. Engineered a custom geolocation algorithm to dynamically optimize cloud sync frequency and battery usage based on transit speed.
-* **AI-Powered Smart Voting System**
-    * **Stack:** Python, Next.js, MongoDB
-    * **Architecture:** An intelligent web-based voting platform integrating machine learning models for secure user verification, ensuring a tamper-proof and highly secure tabulation environment.
-* **Interactive 3D Web Portfolios**
-    * **Stack:** Astro, React, Tailwind CSS, Spline, Vercel
-    * **Architecture:** Engineered highly optimized, responsive developer and videography portfolios featuring a "Swiss Brutalist" UI, scroll-triggered 3D canvas animations, and optimized IntersectionObserver layout transitions.
-* **Creative & 3D Narrative Productions**
-    * **Stack:** Blender, DaVinci Resolve
-    * **Architecture:** Executed complex 3D and live-action creative productions (including "Whispers of Silence" and college festival promos). Utilized advanced keyframing mechanics, lighting balance, character meshes, and professional cinematic color grading pipelines for precise narrative pacing.
+### CORE SOFTWARE ARCHITECTURES & PROJECTS
+
+- **SpendStudent / Offline-First PWA**
+  * **Stack:** React, Supabase (PostgreSQL), Dexie.js (IndexedDB), Tailwind CSS
+  * **Architecture:** Engineered a robust two-way data synchronization engine bridging local browser storage with cloud PostgreSQL. Resolved complex React race conditions via global loading guards to ensure zero UI flashing during initial bootup. Protected multi-tenant data integrity using granular Row Level Security (RLS) policies.
+
+- **Smart Yatra Transit Fleet System**
+  * **Stack:** Flutter, Dart, Firebase Realtime Database
+  * **Architecture:** Developed a real-time transit tracking mobile system for campus fleet management. Built dynamic geolocation throttling logic to modulate GPS polling rates based on vehicular velocity, significantly decreasing client battery draw and eliminating redundant cloud write overhead.
+
+- **AI-Powered Smart Voting System**
+  * **Stack:** Python, Next.js, MongoDB
+  * **Architecture:** Architected a tamper-proof digital voting infrastructure utilizing Python-based computer vision and machine learning models for identity verification, coupled with decoupled Next.js API routes and atomic transaction logs.
+
+- **Local Workforce Recruitment Portal**
+  * **Stack:** System Architecture & Data Modeling
+  * **Architecture:** Designing a centralized web and mobile platform for temporary event and hospitality staffing. Authored normalized PostgreSQL schemas, role-based access control (RBAC) tiers, and proximity-based matching algorithms prioritizing verified candidate reliability.
+
+- **Interactive 3D Web Portfolios**
+  * **Stack:** Astro, React, Tailwind CSS, Spline, Vercel
+  * **Architecture:** Built high-performance portfolios utilizing Astro's island architecture. Implemented selective component hydration (`client:visible`) for WebGL Spline canvases to maintain 60 FPS scroll performance, zero cumulative layout shifts, and rapid Lighthouse metric scores.
+
+---
+
+### CREATIVE & VISUAL ENGINEERING
+
+- **3D Digital Production & Visual Direction**
+  * **Pipeline:** Blender, DaVinci Resolve (10-bit Color Grading), Sony Alpha Pipeline
+  * **Execution:** Directed and produced cinematic promotional pieces (e.g., college festival trailers, "Whispers of Silence"). Implemented 3D hard-surface and organic character keyframe animation in Blender, with final node-based post-production mastering in DaVinci Resolve.
 
 ---
 
 ### CERTIFICATIONS & DOMAIN EXPERTISE
-* **Software Engineer Intern Certification (HackerRank):** Validated core algorithmic logic, data structures, and optimized problem-solving for scalable software architecture.
-* **Machine Learning with Gen AI (ICT Academy of Kerala):** Completed a 1-month intensive internship focusing on generative AI pipelines, model deployment, and intelligent system integration.
-* **Google for Developers - Gemini 3 Workshop:** Hands-on architectural development using AI Studio and Antigravity models.
-* **Cisco Certified Ethical Hacker:** Applied knowledge in vulnerability assessment, penetration testing, and secure system design to ensure robust full-stack deployments.
+
+- **Software Engineer Intern Certification (HackerRank):** Evaluated and verified in algorithmic logic, data structures, and backend problem-solving.
+- **Machine Learning & Generative AI Intern (ICT Academy of Kerala):** Completed an intensive industry program covering generative AI workflows, agentic automation, and model deployment pipelines.
+- **Google for Developers — Build with Gemini Workshop:** Architectural implementation of Gemini models and AI Studio developer APIs.
+- **Cisco Certified Ethical Hacker:** Practical foundation in vulnerability assessment, penetration testing methodologies, and hardened network architectures.
 
 ---
+
 ### METRICS & TELEMETRY
 
 <div align="center">
-  
-![abikurian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abikurian&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000)
 
-![abikurian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abikurian&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&background=00000000)
+![abikurian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abikurian&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=60a5fa&bg_color=0d1117)
+
+![abikurian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abikurian&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=60a5fa&background=0d1117)
 
 <br>
 
