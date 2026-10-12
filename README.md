@@ -2,7 +2,7 @@
 ### FINAL YEAR B.TECH CSE @ SNGCE | FULL-STACK SOFTWARE ENGINEER
 ---
 
-> **STATUS:** Architecting high-performance web and mobile systems.  
+> **STATUS:** Engineering the Local Workforce Recruitment Platform & high-performance systems.  
 > **PORTFOLIO:** [abikurian.vercel.app](https://abikurian.vercel.app/)  
 > **LOCATION:** Kochi, Kerala, IN // IST
 
@@ -56,6 +56,10 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 
 ### CORE SOFTWARE ARCHITECTURES & PROJECTS
 
+- **Local Workforce Recruitment & Management Platform `[ACTIVE DEV]`**
+  * **Stack:** React / Next.js, Flutter, Supabase (PostgreSQL), Tailwind CSS
+  * **Architecture:** Architecting an on-demand workforce deployment engine connecting event, hospitality, and logistics organizers with vetted temporary staff. Engineered normalized multi-tenant relational schemas featuring strict Role-Based Access Control (RBAC), proximity-weighted shift allocation algorithms, and automated identity verification pipelines to curb absenteeism and ensure verified worker parity.
+
 - **SpendStudent / Offline-First PWA**
   * **Stack:** React, Supabase (PostgreSQL), Dexie.js (IndexedDB), Tailwind CSS
   * **Architecture:** Engineered a robust two-way data synchronization engine bridging local browser storage with cloud PostgreSQL. Resolved complex React race conditions via global loading guards to ensure zero UI flashing during initial bootup. Protected multi-tenant data integrity using granular Row Level Security (RLS) policies.
@@ -67,10 +71,6 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 - **AI-Powered Smart Voting System**
   * **Stack:** Python, Next.js, MongoDB
   * **Architecture:** Architected a tamper-proof digital voting infrastructure utilizing Python-based computer vision and machine learning models for identity verification, coupled with decoupled Next.js API routes and atomic transaction logs.
-
-- **Local Workforce Recruitment Portal**
-  * **Stack:** System Architecture & Data Modeling
-  * **Architecture:** Designing a centralized web and mobile platform for temporary event and hospitality staffing. Authored normalized PostgreSQL schemas, role-based access control (RBAC) tiers, and proximity-based matching algorithms prioritizing verified candidate reliability.
 
 - **Interactive 3D Web Portfolios**
   * **Stack:** Astro, React, Tailwind CSS, Spline, Vercel
