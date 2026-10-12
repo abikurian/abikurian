@@ -55,7 +55,6 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 ---
 
 ### CORE SOFTWARE ARCHITECTURES & PROJECTS
-
 - **Local Workforce Recruitment & Management Platform `[ACTIVE DEV]`**
   * **Stack:** React / Next.js, Flutter, Supabase (PostgreSQL), Tailwind CSS
   * **Architecture:** Architecting an on-demand workforce deployment engine connecting event, hospitality, and logistics organizers with vetted temporary staff. Engineered normalized multi-tenant relational schemas featuring strict Role-Based Access Control (RBAC), proximity-weighted shift allocation algorithms, and automated identity verification pipelines to curb absenteeism and ensure verified worker parity.
