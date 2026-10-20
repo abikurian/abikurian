@@ -2,6 +2,7 @@
 ### FINAL YEAR B.TECH CSE @ SNGCE | FULL-STACK SOFTWARE ENGINEER
 ---
 
+
 > **STATUS:** Engineering the Local Workforce Recruitment Platform & high-performance systems.  
 > **PORTFOLIO:** [abikurian.vercel.app](https://abikurian.vercel.app/)  
 > **LOCATION:** Kochi, Kerala, IN // IST
