@@ -95,7 +95,7 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 
 ---
 
-**### METRICS & TELEMETRY
+### METRICS & TELEMETRY
 
 <div align="center">
 
@@ -110,4 +110,4 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=abikurian.abikurian)
 
 </div>
-**
+
