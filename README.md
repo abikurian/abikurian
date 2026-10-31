@@ -97,13 +97,11 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 
 ### METRICS & TELEMETRY
 
+### METRICS & TELEMETRY
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abikurian&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=60a5fa&background=0d1117" alt="abikurian streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abikurian&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3" alt="Top Languages" />
+![abikurian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abikurian&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=60a5fa&background=0d1117)
 
 <br><br>
 
