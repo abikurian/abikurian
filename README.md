@@ -99,7 +99,7 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 
 <div align="center">
 
-![abikurian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abikurian&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=60a5fa&bg_color=0d1117)
+![abikurian's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=abikurian&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=60a5fa&bg_color=0d1117)
 
 ![abikurian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abikurian&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=60a5fa&background=0d1117)
 
