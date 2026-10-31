@@ -94,7 +94,6 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 - **Cisco Certified Ethical Hacker:** Practical foundation in vulnerability assessment, penetration testing methodologies, and hardened network architectures.
 
 ---
-
 ### METRICS & TELEMETRY
 
 <div align="center">
@@ -103,7 +102,7 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 
 <br><br>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abikurian&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abikurian&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=0d1117&cache_bust=1" alt="Top Languages" />
 
 <br><br>
 
