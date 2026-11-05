@@ -1,112 +1,101 @@
-# Abi Kurian Varghese
+<h1 align="center">Abi Kurian Varghese</h1>
 
-### Final-year B.Tech Computer Science Engineering student at SNGCE | Full-stack software engineer
-
-> **Currently:** Building a local workforce recruitment platform and exploring high-performance systems  
-> **Portfolio:** [abikurian.vercel.app](https://portfolioo-six-roan.vercel.app/)  
-> **Location:** Kochi, Kerala, India (IST)
+<p align="center">
+  Final-year B.Tech CSE student at SNGCE · Full-stack developer
+  <br />
+  <a href="https://portfolioo-six-roan.vercel.app/">Portfolio</a> · Kochi, Kerala
+</p>
 
 ---
 
 ## About
 
-Final-year Computer Science Engineering student at SNGCE focused on robust web, mobile, and distributed systems. Experienced in offline-first architectures, real-time telemetry algorithms, and high-performance WebGL interfaces. I also work with 3D pipelines, node-based color grading, and creative asset production.
+I’m a final-year Computer Science student at SNGCE. I build web and mobile apps, and I’m currently working on a platform that connects local businesses with temporary staff. I enjoy figuring out the details behind reliable apps, especially offline data sync, live location updates, and interactive 3D on the web.
 
-## Tech Stack
+Outside software, I make short films and promotional videos, and work with 3D animation and color grading.
 
-### Languages and frameworks
+## Tools I use
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="35" alt="Astro" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" />
+<p align="center">
+  <strong>Development</strong><br />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
 </p>
 
-### Databases, cloud, and infrastructure
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="35" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="35" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
+<p align="center">
+  <strong>Data and infrastructure</strong><br />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### Design, video, and 3D
-
-<p align="left">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" height="35" alt="DaVinci Resolve" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="35" alt="Premiere Pro" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="After Effects" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="35" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
+<p align="center">
+  <strong>Creative</strong><br />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
----
+## Projects
 
-## Software Projects
+### Local Workforce Platform *(in development)*
+**React · Next.js · Flutter · Supabase · Tailwind CSS**
 
-### Local Workforce Recruitment and Management Platform · In development
-**Stack:** React, Next.js, Flutter, Supabase (PostgreSQL), Tailwind CSS
+A platform for event, hospitality, and logistics teams to find temporary staff. I’m working on role-based access, shift matching by proximity, and identity checks.
 
-An on-demand workforce platform connecting event, hospitality, and logistics organizers with vetted temporary staff. Includes a normalized multi-tenant relational schema with role-based access control (RBAC), proximity-weighted shift allocation, and automated identity verification.
+### SpendStudent
+**React · Supabase · Dexie.js · Tailwind CSS**
 
-### SpendStudent · Offline-first PWA
-**Stack:** React, Supabase (PostgreSQL), Dexie.js (IndexedDB), Tailwind CSS
+An offline-first student expense tracker. It syncs browser data with PostgreSQL and uses row-level security to keep user data separate. I also worked through startup loading issues to prevent a flash of incomplete UI.
 
-A two-way synchronization system between local browser storage and cloud PostgreSQL. Uses global loading guards to prevent UI flashing during initial startup and granular row-level security (RLS) policies to protect multi-tenant data.
+### Smart Yatra
+**Flutter · Dart · Firebase Realtime Database**
 
-### Smart Yatra · Transit fleet system
-**Stack:** Flutter, Dart, Firebase Realtime Database
+A campus fleet tracking app. It adjusts how often a vehicle sends its location based on speed, which cuts down on unnecessary GPS use and database writes.
 
-A real-time transit tracking app for campus fleet management. Dynamic geolocation throttling adjusts GPS polling based on vehicle speed to reduce battery use and unnecessary cloud writes.
+### Smart Voting System
+**Python · Next.js · MongoDB**
 
-### AI-powered Smart Voting System
-**Stack:** Python, Next.js, MongoDB
+A voting system project combining computer vision for identity checks with a web interface and transaction logging.
 
-A digital voting system using computer vision and machine learning for identity verification, alongside decoupled Next.js API routes and atomic transaction logs.
+### Interactive 3D Portfolios
+**Astro · React · Tailwind CSS · Spline · Vercel**
 
-### Interactive 3D Web Portfolios
-**Stack:** Astro, React, Tailwind CSS, Spline, Vercel
+Portfolio sites with embedded Spline scenes. Astro's selective hydration helps keep the rest of the page responsive while 3D content loads.
 
-High-performance portfolios built with Astro's island architecture. Selective hydration (`client:visible`) for WebGL Spline canvases helps maintain smooth scrolling, reduce cumulative layout shift, and support strong Lighthouse scores.
+## Creative work
 
----
+I’ve directed and edited college festival trailers and *Whispers of Silence*. My workflow includes Blender animation, After Effects compositing, and color grading in DaVinci Resolve.
 
-## Creative and Visual Engineering
+## Training
 
-### 3D production and cinematic post-production
-**Pipeline:** DaVinci Resolve, Blender, Premiere Pro, After Effects, Photoshop, Canva, Sony Alpha
+- Software Engineer Intern Certification — HackerRank
+- Machine Learning and Generative AI Intern — ICT Academy of Kerala
+- Build with Gemini Workshop — Google for Developers
+- Cisco Ethical Hacker
 
-Directed and produced cinematic promotional work, including college festival trailers and *Whispers of Silence*. Created hard-surface and organic character animations in Blender, composited visual effects in After Effects, and completed node-based color grading and mastering in DaVinci Resolve.
+## GitHub
 
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abikurian&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abikurian&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+</p>
 
-## Certifications and Training
-
-- **Software Engineer Intern Certification — HackerRank:** Algorithmic logic, data structures, and backend problem-solving
-- **Machine Learning and Generative AI Intern — ICT Academy of Kerala:** Generative AI workflows, agentic automation, and model deployment
-- **Build with Gemini Workshop — Google for Developers:** Gemini models and AI Studio developer APIs
-- **Cisco Ethical Hacker:** Vulnerability assessment, penetration testing, and network security
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abikurian&theme=github-dark-blue&hide_border=true" alt="GitHub streak statistics" />
-  <br /><br />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abikurian&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=0d1117" alt="Most-used programming languages" />
-  <br /><br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abikurian.abikurian" alt="Profile visitors" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abikurian&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
