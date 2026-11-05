@@ -4,6 +4,7 @@
 
 > **Status:** Building a Local Workforce Recruitment Platform and high-performance systems
 > **Portfolio:** [abikurian.vercel.app]([(https://portfolioo-six-roan.vercel.app/])
+> 
 > **Location:** Kochi, Kerala, IN (IST)
 
 ---
