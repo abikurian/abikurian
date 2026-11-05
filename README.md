@@ -1,23 +1,20 @@
-# ABI KURIAN VARGHESE
+# Abi Kurian Varghese
 
-### Final Year B.Tech CSE @ SNGCE | Full-Stack Software Engineer
+### Final-year B.Tech Computer Science Engineering student at SNGCE | Full-stack software engineer
 
-> **Status:** Building a Local Workforce Recruitment Platform and high-performance systems
-> **Portfolio:** [abikurian.vercel.app]([(https://portfolioo-six-roan.vercel.app/])
-> 
-> **Location:** Kochi, Kerala, IN (IST)
-
----
-
-## Executive Summary
-
-Final-year Computer Science Engineering student at SNGCE specializing in robust web, mobile, and distributed systems. Experienced in offline-first architectures, real-time telemetry algorithms, and high-performance WebGL interfaces. Bridges software engineering with advanced visual media, combining full-stack systems with 3D pipelines, node-based color grading, and creative asset production.
+> **Currently:** Building a local workforce recruitment platform and exploring high-performance systems  
+> **Portfolio:** [abikurian.vercel.app](https://portfolioo-six-roan.vercel.app/)  
+> **Location:** Kochi, Kerala, India (IST)
 
 ---
+
+## About
+
+Final-year Computer Science Engineering student at SNGCE focused on robust web, mobile, and distributed systems. Experienced in offline-first architectures, real-time telemetry algorithms, and high-performance WebGL interfaces. I also work with 3D pipelines, node-based color grading, and creative asset production.
 
 ## Tech Stack
 
-**Languages & Frameworks**
+### Languages and frameworks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
@@ -32,7 +29,7 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" />
 </p>
 
-**Databases, Cloud & Infrastructure**
+### Databases, cloud, and infrastructure
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="35" alt="Supabase" />
@@ -43,7 +40,7 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
 </p>
 
-**Design, Video & 3D**
+### Design, video, and 3D
 
 <p align="left">
   <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" height="35" alt="DaVinci Resolve" />
@@ -57,65 +54,59 @@ Final-year Computer Science Engineering student at SNGCE specializing in robust 
 
 ---
 
-## Core Software Projects
+## Software Projects
 
-### Local Workforce Recruitment & Management Platform `[ACTIVE DEV]`
-**Stack:** React / Next.js, Flutter, Supabase (PostgreSQL), Tailwind CSS
+### Local Workforce Recruitment and Management Platform · In development
+**Stack:** React, Next.js, Flutter, Supabase (PostgreSQL), Tailwind CSS
 
-An on-demand workforce deployment engine connecting event, hospitality, and logistics organizers with vetted temporary staff. Features normalized multi-tenant relational schemas with strict Role-Based Access Control (RBAC), proximity-weighted shift allocation algorithms, and automated identity verification pipelines to curb absenteeism and ensure verified worker parity.
+An on-demand workforce platform connecting event, hospitality, and logistics organizers with vetted temporary staff. Includes a normalized multi-tenant relational schema with role-based access control (RBAC), proximity-weighted shift allocation, and automated identity verification.
 
-### SpendStudent: Offline-First PWA
+### SpendStudent · Offline-first PWA
 **Stack:** React, Supabase (PostgreSQL), Dexie.js (IndexedDB), Tailwind CSS
 
-A two-way data synchronization engine bridging local browser storage with cloud PostgreSQL. Resolved complex React race conditions with global loading guards for zero UI flashing on initial boot, and protected multi-tenant data integrity with granular Row Level Security (RLS) policies.
+A two-way synchronization system between local browser storage and cloud PostgreSQL. Uses global loading guards to prevent UI flashing during initial startup and granular row-level security (RLS) policies to protect multi-tenant data.
 
-### Smart Yatra Transit Fleet System
+### Smart Yatra · Transit fleet system
 **Stack:** Flutter, Dart, Firebase Realtime Database
 
-A real-time transit tracking mobile system for campus fleet management. Dynamic geolocation throttling modulates GPS polling rates based on vehicle velocity, significantly reducing client battery draw and eliminating redundant cloud writes.
+A real-time transit tracking app for campus fleet management. Dynamic geolocation throttling adjusts GPS polling based on vehicle speed to reduce battery use and unnecessary cloud writes.
 
-### AI-Powered Smart Voting System
+### AI-powered Smart Voting System
 **Stack:** Python, Next.js, MongoDB
 
-A tamper-proof digital voting infrastructure using Python-based computer vision and machine learning models for identity verification, coupled with decoupled Next.js API routes and atomic transaction logs.
+A digital voting system using computer vision and machine learning for identity verification, alongside decoupled Next.js API routes and atomic transaction logs.
 
 ### Interactive 3D Web Portfolios
 **Stack:** Astro, React, Tailwind CSS, Spline, Vercel
 
-High-performance portfolios built on Astro's island architecture. Selective component hydration (`client:visible`) for WebGL Spline canvases maintains 60 FPS scroll performance, zero cumulative layout shift, and strong Lighthouse scores.
+High-performance portfolios built with Astro's island architecture. Selective hydration (`client:visible`) for WebGL Spline canvases helps maintain smooth scrolling, reduce cumulative layout shift, and support strong Lighthouse scores.
 
 ---
 
-## Creative & Visual Engineering
+## Creative and Visual Engineering
 
-### 3D Digital Production & Cinematic Post-Processing
-**Pipeline:** DaVinci Resolve (10-bit color grading, Fairlight), Blender, Premiere Pro, After Effects, Photoshop, Canva, Sony Alpha
+### 3D production and cinematic post-production
+**Pipeline:** DaVinci Resolve, Blender, Premiere Pro, After Effects, Photoshop, Canva, Sony Alpha
 
-Directed and produced cinematic promotional pieces, including college festival trailers and *Whispers of Silence*. Created 3D hard-surface and organic character keyframe animation in Blender, composite VFX in After Effects, and final node-based color grading and mastering in DaVinci Resolve.
+Directed and produced cinematic promotional work, including college festival trailers and *Whispers of Silence*. Created hard-surface and organic character animations in Blender, composited visual effects in After Effects, and completed node-based color grading and mastering in DaVinci Resolve.
 
 ---
 
-## Certifications & Training
+## Certifications and Training
 
-- **Software Engineer Intern Certification (HackerRank):** algorithmic logic, data structures, and backend problem-solving
-- **Machine Learning & Generative AI Intern (ICT Academy of Kerala):** generative AI workflows, agentic automation, and model deployment pipelines
-- **Google for Developers: Build with Gemini Workshop:** Gemini models and AI Studio developer APIs
-- **Cisco Ethical Hacker:** vulnerability assessment, penetration testing methodologies, and hardened network architectures
+- **Software Engineer Intern Certification — HackerRank:** Algorithmic logic, data structures, and backend problem-solving
+- **Machine Learning and Generative AI Intern — ICT Academy of Kerala:** Generative AI workflows, agentic automation, and model deployment
+- **Build with Gemini Workshop — Google for Developers:** Gemini models and AI Studio developer APIs
+- **Cisco Ethical Hacker:** Vulnerability assessment, penetration testing, and network security
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=abikurian&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abikurian&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=0d1117" alt="Top languages" />
-
-<br><br>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abikurian.abikurian)
-
+  <img src="https://streak-stats.demolab.com/?user=abikurian&theme=github-dark-blue&hide_border=true" alt="GitHub streak statistics" />
+  <br /><br />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abikurian&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=0d1117" alt="Most-used programming languages" />
+  <br /><br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abikurian.abikurian" alt="Profile visitors" />
 </div>
