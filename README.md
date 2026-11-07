@@ -11,7 +11,7 @@
 
 <h2 align="center">About</h2>
 
-I’m a final-year Computer Science student at SNGCE. I build web and mobile apps, and I’m currently working on a platform that connects local businesses with temporary staff. I enjoy figuring out the details behind reliable apps, especially offline data sync, live location updates, and interactive 3D on the web.
+I’m a final-year Computer Science student at SNGCE. I build web and mobile apps, and I’m currently working on a platform that connects local businesses with temporary staff. I enjoy figuring out the details behind reliable apps, especially offline data sync, live location updates, and interactive 3D on the web. .
 
 Outside software, I make short films and promotional videos, and work with 3D animation and color grading.
 
