@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a6e,100:6e40c9&text=Abi%20Kurian%20Varghese&fontColor=ffffff&fontSize=44&fontAlignY=38&section=header" width="100%" alt="Abi Kurian Varghese" />
-
 <p align="center">
   <b>Final-year B.Tech CSE student at SNGCE · Full-stack developer</b>
   <br /><br />
