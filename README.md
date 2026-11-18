@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <b>Final-year B.Tech CSE student at SNGCE · Full-stack developer</b>
-  <br /><br />
+  <br /><br /><br />
   <a href="https://portfolioo-six-roan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Kochi,_Kerala-161b22?style=for-the-badge&logo=googlemaps&logoColor=bc8cff" alt="Kochi, Kerala" />
 </p>
