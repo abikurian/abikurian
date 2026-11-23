@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a6e,100:6e40c9&text=Abi%20Kurian%20Varghese&fontColor=ffffff&fontSize=44&fontAlignY=38&section=header" width="100%" alt="Abi Kurian Varghese" />
-<p align="center"> 
+<p align="center">
   <b>Final-year B.Tech CSE student at SNGCE · Full-stack developer</b>
   <br /><br /><br />
   <a href="https://portfolioo-six-roan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" /></a>
@@ -10,14 +10,14 @@
 
 <h2 align="center">About</h2>
 
-I’m a final-year Computer Science student at SNGCE. I build web and mobile apps, and I’m currently working on a platform that connects local businesses with temporary staff. I enjoy figuring out the details behind reliable apps, especially offline data sync, live location updates, and interactive 3D on the web. .
+I’m a final-year Computer Science student at SNGCE. I build web and mobile apps, and I’m currently working on a platform that connects local businesses with temporary staff. I enjoy figuring out the details behind reliable apps, especially offline data sync, live location updates, and interactive 3D on the web.
 
 Outside software, I make short films and promotional videos, and work with 3D animation and color grading.
 
 <h2 align="center">Tools I use</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Development-58a6ff?style=flat-square&labelColor=58a6ff" alt="Development" />
+  <img src="https://img.shields.io/badge/Development-1f6feb?style=flat-square" alt="Development" />
   <br />
   <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -32,7 +32,7 @@ Outside software, I make short films and promotional videos, and work with 3D an
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_and_infrastructure-3fb950?style=flat-square&labelColor=3fb950" alt="Data and infrastructure" />
+  <img src="https://img.shields.io/badge/Data_and_infrastructure-238636?style=flat-square" alt="Data and infrastructure" />
   <br />
   <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
@@ -43,7 +43,7 @@ Outside software, I make short films and promotional videos, and work with 3D an
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Creative-bc8cff?style=flat-square&labelColor=bc8cff" alt="Creative" />
+  <img src="https://img.shields.io/badge/Creative-8957e5?style=flat-square" alt="Creative" />
   <br />
   <img src="https://img.shields.io/badge/Blender-161b22?style=flat-square&logo=blender&logoColor=F5792A" alt="Blender" />
   <img src="https://img.shields.io/badge/DaVinci_Resolve-161b22?style=flat-square&logo=davinciresolve&logoColor=5CA8E8" alt="DaVinci Resolve" />
@@ -59,7 +59,7 @@ Outside software, I make short films and promotional videos, and work with 3D an
 <h2 align="center">Projects</h2>
 
 ### Local Workforce Platform *(in development)*
-<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logoColor=58a6ff" alt="React" /> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square" alt="Next.js" /> <img src="https://img.shields.io/badge/Flutter-161b22?style=flat-square" alt="Flutter" /> <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square" alt="Supabase" /> <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square" alt="Next.js" /> <img src="https://img.shields.io/badge/Flutter-161b22?style=flat-square" alt="Flutter" /> <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square" alt="Supabase" /> <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square" alt="Tailwind CSS" />
 
 A platform for event, hospitality, and logistics teams to find temporary staff. I’m working on role-based access, shift matching by proximity, and identity checks.
 
