@@ -7,7 +7,6 @@
 </p>
 
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,1,2&section=header" width="100%" alt="" />
 
 
